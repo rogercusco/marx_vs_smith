@@ -1,0 +1,5 @@
+2016-06-23 12:18:54 INFO:AuthorTopicModel:[INIT] 0	elapsed_time:38.22	log_likelihood:-10864577.68
+2016-06-23 12:19:34 INFO:AuthorTopicModel:[INIT] 1	elapsed_time:40.03	log_likelihood:-10647479.42
+2016-06-23 12:20:14 INFO:AuthorTopicModel:[INIT] 2	elapsed_time:40.14	log_likelihood:-10493187.98
+2016-06-23 12:20:55 INFO:AuthorTopicModel:[INIT] 3	elapsed_time:40.46	log_likelihood:-10360293.80
+2016-06-23 12:21:35 INFO:AuthorTopicModel:[INIT] 4	elapsed_time:40.33	log_likelihood:-10234555.16
